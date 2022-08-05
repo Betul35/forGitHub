@@ -4,4 +4,6 @@ public class TestCase100 {
 
     //Testing for checkout
 
+    //edit 2 items to the card
+
 }
