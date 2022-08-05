@@ -6,4 +6,6 @@ public class TestCase100 {
 
     //edit 2 items to the card
 
+    //verifying total price
+
 }
