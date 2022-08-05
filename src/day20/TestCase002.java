@@ -7,5 +7,6 @@ public class TestCase002 {
     //testing for menus
 
     //tesing the responses of the pages
+    //finising the test case 002
 
 }
