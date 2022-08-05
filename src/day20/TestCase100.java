@@ -8,4 +8,6 @@ public class TestCase100 {
 
     //verifying total price
 
+    //payment completed
+
 }
